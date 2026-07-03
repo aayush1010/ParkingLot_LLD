@@ -3,12 +3,12 @@
 ## Problem Statement
 
 Design a parking lot that:
-1. Supports multiple vehicle types (Small, Medium, Large) — **Done**
-2. Models a parking ticket issued on entry, carrying vehicle + entry time — **Done**
-3. Prices each vehicle type differently (Small = 50, Medium = 100, Large = 150) — **Done**
-4. Lets a customer pay and exit against their ticket — **In progress**
-5. Tracks free/occupied spots per floor — **TODO**
-6. Rejects entry when the lot is full — **TODO**
+1. Supports multiple vehicle types (Small, Medium, Large)
+2. Models a parking ticket issued on entry, carrying vehicle + entry time
+3. Prices each vehicle type differently (Small = 50, Medium = 100, Large = 150)
+4. Lets a customer pay and exit against their ticket
+5. Tracks free/occupied spots per floor
+6. Rejects entry when the lot is full
 
 ## Design
 
